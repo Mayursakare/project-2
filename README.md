@@ -1,3 +1,3 @@
 # project-2
 This my project
-Author-mayur (develper)
+Author-mayur (develper.)
